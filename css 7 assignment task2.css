@@ -1,0 +1,45 @@
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: image();
+
+}
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10000px;
+}
+.learncode{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: #f8f6f6;
+    padding-top: 70px;
+}
+#learncode{
+    font-size: 70px;
+    font-weight: 700;
+}
+input{
+    width: 50%;
+    height: 40px;
+    color: black;
+    border-radius: 20px;
+    background-image: url(search\ icon\ png.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position:  600px;
+    padding-right: 10.5px;
+    padding-left: 20px;
+    outline: none;
+}
+input:focus{
+    border: 5px solid green;
+}
+

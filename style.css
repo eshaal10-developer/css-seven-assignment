@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+}
+.abc {
+    border: 2px solid #F15757;
+    color: white;
+    background-color: transparent;
+    width: 122px;
+    height: 22px;
+    margin-top: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.abc:hover {
+    background-color: #F15757;
+}
+
+.wow {
+    border: 2px solid #F15757;
+    color: white;
+    background-color: transparent;
+    width: 122px;
+    height: 22px;
+    margin-top: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.wow:hover {
+    background-color: #F15757;
+}
+
+.pin {
+    border: 2px solid #F15757;
+    color: white;
+    background-color: transparent;
+    width: 122px;
+    height: 22px;
+    margin-top: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.pin:hover {
+    background-color: #F15757;
+}
